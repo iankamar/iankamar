@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [se_project_aroundtheus](https://iankamar.github.io/se_project_aroundtheus/)
 
-- 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDB, GraphQL, Apollo, Firebase, and Next.js. These are technologies and frameworks that help me build modern web applications with user interfaces, server-side code, databases, APIs, authentication, hosting, and more.**
+- 🌱 I’m currently learning **React.js, MongoDB, GraphQL, Apollo, Firebase, and Next.js. These are technologies and frameworks that help me build modern web applications with user interfaces, server-side code, databases, APIs, authentication, hosting, and more.**
 
 - 💬 Ask me about **How to use JavaScript to manipulate the Document Object Model (DOM) and handle user events such as clicks, inputs, and scrolls. How to use object-oriented programming principles such as abstraction, encapsulation, inheritance, and polymorphism in JavaScript. How to use advanced OOP concepts such as prototypes, constructors, and modules in JavaScript. How to use Webpack to bundle my code. How to use asynchronous JavaScript features such as callbacks, promises, async/await, and fetch to work with data from APIs.**
 
