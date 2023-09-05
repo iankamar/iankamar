@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iankamar&label=Profile%20views&color=0e75b6&style=flat" alt="iankamar" /> </p>
 
-- 🔭 I’m currently working on [se_project_aroundtheus](https://iankamar.github.io/se_project_aroundtheus/)
+- 🔭 I’m currently working on [se_project_react](https://github.com/iankamar/se_project_react/)
 
 - 🌱 I’m currently learning **React.js, MongoDB, GraphQL, Apollo, Firebase, Next.js, and Google Cloud. These are technologies and frameworks that help me build modern web applications with user interfaces, server-side code, databases, APIs, authentication, hosting, and more.**
 
