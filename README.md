@@ -8,7 +8,7 @@
 - 🧠 I’m currently working on [se_project_react](https://github.com/iankamar/se_project_react/)
 - 🔭 Enrolled in TripleTen by Yandex, a Full Stack Web Developer MERN online Bootcamp.
 - 🌍  I'm based in McLean, VA.
-- - 📫 How to reach me ian.kamar@outlook.com
+- 📫 How to reach me ian.kamar@outlook.com
 - 🌱 I’m currently learning React.js: MongoDB, GraphQL, Apollo, Firebase, Next.js, and Google Cloud. These are technologies and frameworks that enhance my ability to build modern applications with features, server-side code, databases, APIs, authentication, hosting, and more.
 
 <h3 align="left">Connect with me:</h3>
