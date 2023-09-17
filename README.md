@@ -7,17 +7,7 @@
     - 🔭 Enrolled in TripleTen by Yandex, a Full Stack Developer MERN online Bootcamp.
     - 🌍  I'm based in McLean, VA.
     - 📫 How to reach me ian.kamar@outlook.com
- 
-      graph LR
-  A[Frontend Development] --> B[Reactjs ⚛️]
-  A --> C[Next.js ➡️🔀]
-  D[Backend Development] --> E[GraphQL 📈]
-  D --> F[Apollo 🚀]
-  G[Database Management] --> H[MongoDB 🍃]
-  I[Authentication and Hosting Services] --> J[Firebase 🔥]
-  I --> K[Google Cloud ☁️]
-
-
+      
         ###  🌱 Learning: 
         #### Frontend Development
         Reactjs ⚛️  Next.js ➡️🔀
@@ -27,6 +17,17 @@
         MongoDB 🍃
         #### Authentication and Hosting Services
         Firebase 🔥 Google Cloud ☁️
+
+
+      graph LR
+  A[Frontend Development] --> B[Reactjs ⚛️]
+  A --> C[Next.js ➡️🔀]
+  D[Backend Development] --> E[GraphQL 📈]
+  D --> F[Apollo 🚀]
+  G[Database Management] --> H[MongoDB 🍃]
+  I[Authentication and Hosting Services] --> J[Firebase 🔥]
+  I --> K[Google Cloud ☁️]
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
