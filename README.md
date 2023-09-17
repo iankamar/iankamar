@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iankamar&label=Profile%20views&color=0e75b6&style=flat" alt="iankamar" /> </p>
 
+- 💬 I have expertise in JavaScript, especially in using it to manipulate the DOM and handle user events such as clicks, inputs, and scrolls. I also apply OOP principles such as abstraction, encapsulation, inheritance, and polymorphism in my JavaScript code. I use advanced OOP concepts such as prototypes, constructors, and modules to create reusable and modular code. I use Webpack to bundle my code and optimize its performance. I use asynchronous JavaScript features such as callbacks, promises, async/await, and fetch to work with data from various APIs.
+
 - 🧠 I’m currently working on [se_project_react](https://github.com/iankamar/se_project_react/)
 
-- 🔭 Enrolled in TripleTen by Yandex, a Full Stack Web Developer MERN online Bootcamp.**
+- 🔭 Enrolled in TripleTen by Yandex, a Full Stack Web Developer MERN online Bootcamp.
 
-- 🌍  I'm based in McLean, VA, but am willing to relocate.**
+- 🌍  I'm based in McLean, VA, but am willing to relocate.
 
-- 🌱 I’m currently learning React.js: MongoDB, GraphQL, Apollo, Firebase, Next.js, and Google Cloud. These are technologies and frameworks that enhance my ability to build modern applications with features, server-side code, databases, APIs, authentication, hosting, and more.**
+- 🌱 I’m currently learning React.js: MongoDB, GraphQL, Apollo, Firebase, Next.js, and Google Cloud. These are technologies and frameworks that enhance my ability to build modern applications with features, server-side code, databases, APIs, authentication, hosting, and more.
 
-- 💬 I have expertise in JavaScript, especially in using it to manipulate the DOM and handle user events such as clicks, inputs, and scrolls. I also apply OOP principles such as abstraction, encapsulation, inheritance, and polymorphism in my JavaScript code. I use advanced OOP concepts such as prototypes, constructors, and modules to create reusable and modular code. I use Webpack to bundle my code and optimize its performance. I use asynchronous JavaScript features such as callbacks, promises, async/await, and fetch to work with data from various APIs. **
-
-- 📫 How to reach me **ian.kamar@outlook.com**
+- 📫 How to reach me **ian.kamar@outlook.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
