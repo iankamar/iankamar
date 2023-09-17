@@ -10,16 +10,16 @@
 
 ###  🌱 Learning: 
 ##### Frontend Development
-Reactjs ⚛️
-Next.js ➡️🔀
+    Reactjs ⚛️
+    Next.js ➡️🔀
 #### Backend Development
-GraphQL 📈
-Apollo 🚀
+    GraphQL 📈
+    Apollo 🚀
 #### Database Management
-MongoDB 🍃
+    MongoDB 🍃
 #### Authentication and Hosting Services
-Firebase 🔥
-Google Cloud ☁️
+    Firebase 🔥
+    Google Cloud ☁️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
