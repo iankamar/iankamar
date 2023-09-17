@@ -19,14 +19,13 @@
         Firebase 🔥 Google Cloud ☁️
 
 
-      graph LR
-  A[Frontend Development] --> B[Reactjs ⚛️]
-  A --> C[Next.js ➡️🔀]
-  D[Backend Development] --> E[GraphQL 📈]
-  D --> F[Apollo 🚀]
-  G[Database Management] --> H[MongoDB 🍃]
-  I[Authentication and Hosting Services] --> J[Firebase 🔥]
-  I --> K[Google Cloud ☁️]
+## 🌱 Learning: 
+
+| Frontend Development | Backend Development | Database Management | Authentication and Hosting Services |
+| --- | --- | --- | --- |
+| Reactjs ⚛️ | GraphQL 📈 | MongoDB 🍃 | Firebase 🔥 |
+| Next.js ➡️🔀 | Apollo 🚀 |  | Google Cloud ☁️ |
+
 
 
 <h3 align="left">Connect with me:</h3>
