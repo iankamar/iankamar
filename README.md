@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ian Kamar</h1>
 <h3 align="center">A skilled and motivated front-end engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iankamar&label=Profile%20views&color=0e75b6&style=flat" alt="iankamar" /> </p>
-
 - 💬 I am proficient in JavaScript, with a particular focus on DOM manipulation and handling user events such as clicks, inputs, and scrolls. My approach to JavaScript coding incorporates OOP principles like abstraction, encapsulation, inheritance, and polymorphism. I leverage advanced OOP concepts including prototypes, constructors, and modules to develop reusable and modular code. To optimize performance, I utilize Webpack for bundling my code. Furthermore, I employ asynchronous JavaScript features such as callbacks, promises, async/await, and fetch to interact with data from various APIs.
 
     - 🧠 I am working on [se_project_react](https://github.com/iankamar/se_project_react/)
     - 🔭 Enrolled in TripleTen by Yandex, a Full Stack Developer MERN online Bootcamp.
     - 🌍  I'm based in McLean, VA.
     - 📫 How to reach me ian.kamar@outlook.com
-    - 
-- 🌱 I am learning React.js, MongoDB, GraphQL, Apollo, Firebase, Next.js, and Google Cloud. Tools necessary to implement advanced features, write server-side code, manage databases, interact with APIs, handle authentication processes, and manage hosting services.
+      
+- 🌱 I am learning Reactjs, MongoDB, GraphQL, Apollo, Firebase, Next.js, and Google Cloud. Tools necessary to implement advanced features, write server-side code, manage databases, interact with APIs, handle authentication processes, and manage hosting services.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
