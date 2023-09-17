@@ -9,7 +9,7 @@
     - 📫 How to reach me ian.kamar@outlook.com
       
 - 🌱 Learning tools necessary to implement advanced features, write server-side code, manage databases, interact with APIs, handle authentication processes, and manage hosting services.
-        Reactjs: ⚛️
+        ### Reactjs: ⚛️
         MongoDB: 🍃
         GraphQL: 📈
         Apollo: 🚀
