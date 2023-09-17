@@ -10,12 +10,12 @@
       
 - 🌱 Learning tools necessary to implement advanced features, write server-side code, manage databases, interact with APIs, handle authentication processes, and manage hosting services.
         ### Reactjs: ⚛️
-        MongoDB: 🍃
-        GraphQL: 📈
-        Apollo: 🚀
-        Firebase: 🔥
-        Next.js: ➡️🔀
-        Google Cloud: ☁️
+        ### MongoDB: 🍃
+        ### GraphQL: 📈
+        ### Apollo: 🚀
+        ### Firebase: 🔥
+        ### Next.js: ➡️🔀
+        ### Google Cloud: ☁️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
