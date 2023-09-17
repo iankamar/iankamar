@@ -10,7 +10,6 @@
 ## 🌱 Learning: 
 
 | Frontend Development | Backend Development | Database Management | Authentication and Hosting Services |
-| --- | --- | --- | --- |
 | Reactjs ⚛️ | GraphQL 📈 | MongoDB 🍃 | Firebase 🔥 |
 | Next.js ➡️🔀 | Apollo 🚀 |  | Google Cloud ☁️ |
 
