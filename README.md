@@ -2,7 +2,6 @@
 <h3 align="center">A skilled and motivated front-end engineer</h3>
 
 - 🧠 Working on [se_project_react](https://github.com/iankamar/se_project_react/)
-- 🔭 Enrolled in TripleTen by Yandex, a Full Stack Developer MERN online Bootcamp.
 - 📫 How to reach me ian.kamar@outlook.com
       
 ## 🌱 Learning: 
