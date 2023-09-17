@@ -9,18 +9,15 @@
     - 📫 How to reach me ian.kamar@outlook.com
 
 ###  🌱 Learning: 
-### Frontend Development
+##### Frontend Development
 Reactjs ⚛️
 Next.js ➡️🔀
-
-# Backend Development
+#### Backend Development
 GraphQL 📈
 Apollo 🚀
-
-## Database Management
+#### Database Management
 MongoDB 🍃
-
-## Authentication and Hosting Services
+#### Authentication and Hosting Services
 Firebase 🔥
 Google Cloud ☁️
 
