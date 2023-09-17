@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian Kamar</h1>
 <h3 align="center">A skilled and motivated front-end engineer</h3>
 
-| Category | Details |
-| --- | --- |
-| 🛠️ Skills | Proficient in **JavaScript**, focusing on DOM manipulation and user events. |
-| 🎯 Approach | Incorporates **OOP principles** and **advanced concepts** for reusable, modular code. |
-| ⚙️ Tools | Utilizes **Webpack** for code bundling. |
-| 🔄 Async JavaScript | Employs features like callbacks, promises, async/await, and fetch for API interaction. |
-
 - 🧠 Working on [se_project_react](https://github.com/iankamar/se_project_react/)
 - 🔭 Enrolled in TripleTen by Yandex, a Full Stack Developer MERN online Bootcamp.
 - 📫 How to reach me ian.kamar@outlook.com
