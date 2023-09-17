@@ -5,7 +5,6 @@
 
     - 🧠 I am working on [se_project_react](https://github.com/iankamar/se_project_react/)
     - 🔭 Enrolled in TripleTen by Yandex, a Full Stack Developer MERN online Bootcamp.
-    - 🌍  I'm based in McLean, VA.
     - 📫 How to reach me ian.kamar@outlook.com
       
 ## 🌱 Learning: 
