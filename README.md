@@ -9,7 +9,7 @@
 
 - 🔭 Enrolled in TripleTen by Yandex, a Full Stack Web Developer MERN online Bootcamp.
 
-- 🌍  I'm based in McLean, VA, but am willing to relocate.
+- 🌍  I'm based in McLean, VA.
 
 - 🌱 I’m currently learning React.js: MongoDB, GraphQL, Apollo, Firebase, Next.js, and Google Cloud. These are technologies and frameworks that enhance my ability to build modern applications with features, server-side code, databases, APIs, authentication, hosting, and more.
 
