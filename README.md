@@ -13,19 +13,16 @@
 Reactjs ⚛️
 Next.js ➡️🔀
 
-### Backend Development
+# Backend Development
 GraphQL 📈
 Apollo 🚀
 
-### Database Management
+## Database Management
 MongoDB 🍃
 
-### Authentication and Hosting Services
+## Authentication and Hosting Services
 Firebase 🔥
 Google Cloud ☁️
-
-Tools necessary to implement advanced features, write server-side code, manage databases, interact with APIs, handle authentication processes, and manage hosting services.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
