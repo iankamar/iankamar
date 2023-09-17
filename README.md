@@ -8,18 +8,18 @@
     - 🌍  I'm based in McLean, VA.
     - 📫 How to reach me ian.kamar@outlook.com
 
-###  🌱 Learning: 
-##### Frontend Development
-Reactjs ⚛️
-Next.js ➡️🔀
-#### Backend Development
-GraphQL 📈
-Apollo 🚀
-#### Database Management
-MongoDB 🍃
-#### Authentication and Hosting Services
-Firebase 🔥
-Google Cloud ☁️
+        ###  🌱 Learning: 
+        ##### Frontend Development
+        Reactjs ⚛️
+        Next.js ➡️🔀
+        #### Backend Development
+        GraphQL 📈
+        Apollo 🚀
+        #### Database Management
+        MongoDB 🍃
+        #### Authentication and Hosting Services
+        Firebase 🔥
+        Google Cloud ☁️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
