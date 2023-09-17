@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning React.js: MongoDB, GraphQL, Apollo, Firebase, Next.js, and Google Cloud. These are technologies and frameworks that enhance my ability to build modern applications with features, server-side code, databases, APIs, authentication, hosting, and more.
 
-- 📫 How to reach me **ian.kamar@outlook.com
+- 📫 How to reach me ian.kamar@outlook.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
