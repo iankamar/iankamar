@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ian Kamar</h1>
-<h3 align="center">A skilled and motivated software developer</h3>
 
 - 🧠 Working on [se_project_react](https://github.com/iankamar/se_project_react/)
 - 📫 How to reach me ian.kamar@outlook.com
