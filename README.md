@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Kamar</h1>
-<h5 align= "left"> A Full-stack Software Engineer adept at deploying and maintaining back-end systems, with a knack for optimizing performance and troubleshooting issues. Proficient in creating responsive, user-facing aspects of websites and implementing interactive features. Seeking software engineering opportunities to leverage these skills in delivering high-quality solutions and contributing to a dynamic team. </h5>
+<h5 align= "left"> A Full-stack Software Engineer adept at deploying and maintaining back-end systems, with a knack for optimizing performance and troubleshooting issues. Proficient in creating responsive, user-facing aspects of websites and implementing interactive features.</h5>
 <p align="left">
 </p>
 
