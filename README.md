@@ -6,7 +6,7 @@
 
 <p align="left">
   <strong>Demonstrated Interest:</strong><br>
-  I am currently focusing on enhancing my expertise in expanding my proficiency in full-stack development frameworks. My commitment to continuous learning ensures I stay updated with industry trends and best practices, positioning me to contribute effectively in dynamic and innovative environments.
+  I am currently focusing on enhancing my expertise in expanding my proficiency in full-stack development. My commitment to continuous learning ensures I stay updated with industry trends and best practices, positioning me to contribute effectively in dynamic and innovative environments.
 </p>
 
 <p align="left">
