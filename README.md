@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ian Kamar</h1>
 
-<h5 align="left">
+<p align="left">
   A Full-stack Software Engineer with a background in finance, I specialize in both front-end and back-end development. My technical skills encompass JavaScript, TypeScript, React, Node.js, and database management with MongoDB and PostgreSQL. I am adept at deploying and maintaining systems, optimizing performance, and troubleshooting issues to ensure smooth and efficient operations.
-</h5>
+</p>
 
 <p align="left">
   <strong>Demonstrated Interest:</strong><br>
-  I am currently investigating PHP and Angular to broaden my technical expertise, aligning with the evolving demands of the software engineering field. My commitment to continuous learning ensures I stay updated with industry trends and best practices.
+  I am currently focusing on enhancing my expertise in expanding my proficiency in full-stack development frameworks. My commitment to continuous learning ensures I stay updated with industry trends and best practices, positioning me to contribute effectively in dynamic and innovative environments.
 </p>
 
 <p align="left">
@@ -16,13 +16,14 @@
 
 <p align="left">
   <strong>Future Trajectory:</strong><br>
-  I am eager to leverage my technical and financial acumen in roles that challenge me to innovate and contribute meaningfully to dynamic teams. My future trajectory includes deepening my expertise in cloud technologies and expanding my proficiency in full-stack development frameworks, with a particular interest in opportunities at leading firms like Capital One.
+  I am eager to leverage my technical and financial acumen in roles that challenge me to innovate and contribute meaningfully to dynamic teams. My future trajectory includes deepening my expertise in full-stack development. I am particularly interested in opportunities that allow me to work on impactful projects and drive technological advancements.
 </p>
 
 <p align="left">
   <strong>Alternative Events:</strong><br>
-  With my newfound availability, I am exploring tech meetups, hackathons, and industry conferences to network with fellow professionals and stay engaged with the latest advancements in software engineering. I am particularly interested in events focused on fintech innovations and cloud computing technologies.
+  With my newfound availability, I am exploring tech meetups, hackathons, and industry conferences to network with fellow professionals and stay engaged with the latest advancements in software engineering. I am particularly interested in events focused on fintech innovations and technologies, which are highly relevant to the work being done at top financial institutions.
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
