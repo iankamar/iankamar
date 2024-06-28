@@ -21,7 +21,7 @@
 
 <p align="left">
   <strong>Alternative Events:</strong><br>
-  With my new found availability, I am exploring tech meetups, hackathons, and industry conferences to network with fellow professionals and stay engaged with the latest advancements in software engineering. I am particularly interested in events focused on fintech innovations and technologies, which are highly relevant to the work being done at top financial institutions.
+  With my new found availability, I am exploring tech meetups, hackathons, and industry conferences to network with fellow professionals and stay engaged with the latest advancements in software engineering. I am particularly interested in events focused on fintech innovations and technologies.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
