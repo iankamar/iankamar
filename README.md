@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian Kamar</h1>
 
 <p align="left">
-  A Full-stack Software Engineer with a background in finance, I specialize in both front-end and back-end development. My technical skills encompass JavaScript, TypeScript, React, Node.js, and database management with MongoDB and PostgreSQL. I am adept at deploying and maintaining systems, optimizing performance, and troubleshooting issues to ensure smooth and efficient operations.
+  A Full-stack Software Engineer with a background in finance, I specialize in both front-end and back-end development. My technical skills encompass JavaScript, TypeScript, React, Node.js, and database management with MongoDB, PostgreSQL, and MySQL. I am adept at deploying and maintaining systems, optimizing performance, and troubleshooting issues to ensure smooth and efficient operations.
 </p>
 
 <p align="left">
@@ -11,7 +11,7 @@
 
 <p align="left">
   <strong>Work Ethic:</strong><br>
-  My work ethic is built on a foundation of dedication, meticulous attention to detail, and a passion for problem-solving. In my externship at Drops Care, I played a crucial role in developing a dynamic mobile application for managing diabetes, showcasing my ability to deliver high-quality, user-centric solutions. My previous roles have honed my skills in performance optimization, secure user system implementation, and efficient data management.
+  My work ethic is built on a foundation of dedication, meticulous attention to detail, and a passion for problem-solving. In my externship at Drops Care, I played a crucial role in developing a dynamic application for managing diabetes, showcasing my ability to deliver high-quality, user-centric solutions. My previous roles have honed my skills in performance optimization, secure user system implementation, and efficient data management.
 </p>
 
 <p align="left">
