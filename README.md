@@ -55,7 +55,6 @@
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Next.js-%230A1837?style=for-the-badge&logo=next.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Bash-%2369D3A7?style=for-the-badge&logo=Bash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=Jest&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Vercel-%230A1837?style=for-the-badge&logo=Vercel&logoColor=white)
