@@ -2,9 +2,9 @@
 <h3 align="left">
   Full-stack Software Engineer | Expertise in Finance
 </h3>
-<p align="left">
+<h4 align="left">
   Specializing in both front-end and back-end development, I bring proficiency in a variety of languages, tools, and technologies, including JavaScript (ES6), TypeScript, React, Node.js, and databases like MongoDB and PostgreSQL. I seamlessly integrate technical skills with financial acumen to develop efficient, user-focused applications.
-</p>
+</h4>
 
 <h3>Technical Skills</h3>
 
@@ -62,10 +62,5 @@
 
 - 🤝 **Open to Collaborations**
 
-<p align="left">
-  🌍 **Open Source Contributor**<br>
-  🌱 **Improving problem solving skills in DSA**<br>
-  🤝 **Open to Collaborations**
-</p>
 
 
