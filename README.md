@@ -58,9 +58,7 @@
 <h4>
   
 - 🌍 **Open Source Contributor**
-  
 - 🌱 **Improving my problem solving skills in DSA**
-  
 - 🤝 **Open to Collaborations**
   
 </h4>
