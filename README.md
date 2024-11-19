@@ -3,10 +3,8 @@
   Full-stack Software Engineer | Expertise in Finance
 </p>
 <p align="left">
-  Specializing in both front-end and back-end development, I bring proficiency in JavaScript (ES6), TypeScript, React, Node.js, and databases like MongoDB and PostgreSQL. I seamlessly integrate technical skills with financial acumen to develop efficient, user-focused applications.
+  Specializing in both front-end and back-end development, I bring proficiency in a variety of languages, tools, and technologies, including JavaScript (ES6), TypeScript, React, Node.js, and databases like MongoDB and PostgreSQL. I seamlessly integrate technical skills with financial acumen to develop efficient, user-focused applications.
 </p>
-
-
 
 
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
