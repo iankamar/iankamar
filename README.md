@@ -58,7 +58,7 @@
 ![Static Badge](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=Jest&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Vercel-%230A1837?style=for-the-badge&logo=Vercel&logoColor=white)
-![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Google%20Cloud-%234285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-%231769AA?style=for-the-badge&logo=Microsoft%20Azure&logoColor=White)
 ![Static Badge](https://img.shields.io/badge/Atlassian-%230052CC?style=for-the-badge&logo=Atlassian&logoColor=White)
