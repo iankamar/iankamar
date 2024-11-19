@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ian Kamar</h1>
 <p align="left">
-Full-stack Software Engineer with Expertise in Finance
-Specializing in both front-end and back-end development, I bring expertise in JavaScript (ES6), TypeScript, React, Node.js, and databases like MongoDB and PostgreSQL. I seamlessly integrate technical skills with financial acumen to develop efficient, user-focused applications.
+  Full-stack Software Engineer | Expertise in Finance
+  Specializing in both front-end and back-end development, I bring expertise in JavaScript (ES6), TypeScript, React, Node.js, and databases like MongoDB and PostgreSQL. I seamlessly integrate technical skills with financial acumen to develop efficient, user-focused applications.
 </p>
+
 
 
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
