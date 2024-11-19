@@ -55,8 +55,7 @@
 ![Static Badge](https://img.shields.io/badge/Prettier-%23F7B93E?style=for-the-badge&logo=Prettier&logoColor=black)
 
 <h3>Additional Information</h3>
-<h4 align-"left">
-  
+
 - 🌍 **Open Source Contributor**
 - 🌱 **Improving my problem solving skills in DSA**
 - 🤝 **Open to Collaborations**
