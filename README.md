@@ -53,8 +53,6 @@
 
 - 🌍 **Open Source Contributor**
 
-- 📫 [ian.kamar@outlook.com](ian.kamar@outlook.com)
-
 - 🌱 **Improving my problem solving skills in DSA**
 
 - 🤝 **Open to Collaborations**
