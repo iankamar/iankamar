@@ -51,6 +51,15 @@
 ![Static Badge](https://img.shields.io/badge/Prettier-%23F7B93E?style=for-the-badge&logo=Prettier&logoColor=black)
 
 
+- 🌍 **Open Source Contributor**
+
+- 📫 [ian.kamar@outlook.com](ian.kamar@outlook.com)
+
+- 🌱 **Improving my problem solving skills in DSA**
+
+- 🤝 **Open to Collaborations**
+
+
 
 
 
