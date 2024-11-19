@@ -62,6 +62,76 @@
 
 
 
+<h1 align="center">Hi 👋, I'm Ian Kamar</h1>
+
+<p align="left">
+  Full-stack Software Engineer | Expertise in Finance
+</p>
+
+<p align="left">
+  Specializing in both front-end and back-end development, I bring proficiency in a variety of languages, tools, and technologies, including JavaScript (ES6), TypeScript, React, Node.js, and databases like MongoDB and PostgreSQL. I seamlessly integrate technical skills with financial acumen to develop efficient, user-focused applications.
+</p>
+
+<!-- Frontend Technologies -->
+<h3>Frontend Technologies</h3>
+<p align="left">
+  ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DBFB)
+  ![Static Badge](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990?style=for-the-badge&logo=React%20Hook%20form&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/React%20Router-%23CA4245?style=for-the-badge&logo=React%20Router&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/React%20Bootstrap-%2341E0FD?style=for-the-badge&logo=React%20Bootstrap&logoColor=black)
+</p>
+
+<!-- Backend Technologies -->
+<h3>Backend Technologies</h3>
+<p align="left">
+  ![Static Badge](https://img.shields.io/badge/Nodejs-%235FA04E?style=for-the-badge&logo=Node.js&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Express-%237D929E?style=for-the-badge&logo=Express&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Mongoose-%23880000?style=for-the-badge&logo=Mongoose&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Axios-%235A29E4?style=for-the-badge&logo=Axios&logoColor=White)
+</p>
+
+<!-- Databases -->
+<h3>Databases</h3>
+<p align="left">
+  ![Static Badge](https://img.shields.io/badge/Mongodb-%2347A248?style=for-the-badge&logo=Github&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Mysql-%234479A1?style=for-the-badge&logo=Mysql&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=Postgresql&logoColor=white)
+</p>
+
+<!-- Tools & Cloud -->
+<h3>Tools & Cloud</h3>
+<p align="left">
+  ![Static Badge](https://img.shields.io/badge/Next.js-%230A1837?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Vercel-%230A1837?style=for-the-badge&logo=Vercel&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=Redux&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Google%20Cloud-%234285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-%231769AA?style=for-the-badge&logo=Microsoft%20Azure&logoColor=White)
+  ![Static Badge](https://img.shields.io/badge/Atlassian-%230052CC?style=for-the-badge&logo=Atlassian&logoColor=White)
+  ![Static Badge](https://img.shields.io/badge/Jira%20-%230052CC?style=for-the-badge&logo=Jira&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
+</p>
+
+<!-- Miscellaneous -->
+<h3>Miscellaneous</h3>
+<p align="left">
+  ![Static Badge](https://img.shields.io/badge/Prisma-%232D3748?style=for-the-badge&logo=Prisma&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/REST%20API-%23225593?style=for-the-badge&logo=REST%20APIs&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/GraphQL-%23E10098?style=for-the-badge&logo=GraphQl&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Storybook-%23FF4785?style=for-the-badge&logo=Storybook&logoColor=white)
+</p>
+
+<!-- Additional Information -->
+<h3>Additional Information</h3>
+<ul>
+  <li>🌍 <strong>Open Source Contributor</strong></li>
+  <li>🌱 <strong>Improving my problem-solving skills in DSA</strong></li>
+  <li>🤝 <strong>Open to Collaborations</strong></li>
+</ul>
+
+
 
 
 
