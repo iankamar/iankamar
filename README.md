@@ -62,4 +62,10 @@
 
 - 🤝 **Open to Collaborations**
 
+<p align="left">
+  🌍 **Open Source Contributor**<br>
+  🌱 **Improving problem solving skills in DSA**<br>
+  🤝 **Open to Collaborations**
+</p>
+
 
