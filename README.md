@@ -48,6 +48,7 @@
 ![Static Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DBFB)
 ![Static Badge](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990?style=for-the-badge&logo=React%20Hook%20form&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React%20Router-%23CA4245?style=for-the-badge&logo=React%20Router&logoColor=white)
+![Static Badge](https://img.shields.io/badge/React%20Bootstrap-%2341E0FD?style=for-the-badge&logo=React%20Bootstrap&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Nodejs-%235FA04E?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Mongoose-%23880000?style=for-the-badge&logo=Mongoose&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Express-%237D929E?style=for-the-badge&logo=Express&logoColor=white)
