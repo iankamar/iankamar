@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian Kamar</h1>
 <p align="left">
-  A Full-stack Software Engineer with a background in finance, I specialize in both front-end and back-end development. My technical skills encompass JavaScript, TypeScript, React, Node.js, and database management with MongoDB, PostgreSQL, and MySQL. I am adept at deploying and maintaining systems, optimizing performance, and troubleshooting issues to ensure smooth and efficient operations.
+Full-stack Software Engineer with Expertise in Finance
+Specializing in both front-end and back-end development, I bring expertise in JavaScript (ES6), TypeScript, React, Node.js, and databases like MongoDB and PostgreSQL. I seamlessly integrate technical skills with financial acumen to develop efficient, user-focused applications.
 </p>
 
 
