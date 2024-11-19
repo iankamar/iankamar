@@ -3,7 +3,7 @@
   Full-stack Software Engineer | Expertise in Finance
 </h3>
 <h4 align="left">
-  Specializing in both front-end and back-end development, I bring proficiency in a variety of languages, tools, and technologies, including JavaScript (ES6), TypeScript, React, Node.js, and databases like MongoDB and PostgreSQL. I seamlessly integrate technical skills with financial acumen to develop efficient, user-focused applications.
+  Specializing in full-stack development, with expertise in languages, tools, and technologies such as JavaScript (ES6), TypeScript, React, Node.js, and databases like MongoDB and PostgreSQL. I integrate technical skills with financial expertise to build efficient, user-focused applications.
 </h4>
 
 <h3>Technical Skills</h3>
