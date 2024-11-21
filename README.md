@@ -6,7 +6,7 @@
   Specializing in full-stack development, with expertise in languages, tools, and technologies such as JavaScript (ES6), TypeScript, React, Node.js, and databases like MongoDB and PostgreSQL. I integrate technical skills with financial expertise to build efficient, user-focused applications.
 </h4>
 
-<h3>Technical Skills</h3>
+<h3>Technology</h3>
 
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white)
