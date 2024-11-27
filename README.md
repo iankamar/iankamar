@@ -23,6 +23,8 @@
 ![Static Badge](https://img.shields.io/badge/Mongodb-%2347A248?style=for-the-badge&logo=Github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Mysql-%234479A1?style=for-the-badge&logo=Mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=Postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PyCharm-%23FFFC00?style=for-the-badge&logo=PyCharm&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code%20-%235395FD?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DBFB)
 ![Static Badge](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990?style=for-the-badge&logo=React%20Hook%20form&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React%20Router-%23CA4245?style=for-the-badge&logo=React%20Router&logoColor=white)
@@ -53,8 +55,6 @@
 ![Static Badge](https://img.shields.io/badge/Webpack-%238DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Keystone-%23166BFF?style=for-the-badge&logo=Keystone&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Prettier-%23F7B93E?style=for-the-badge&logo=Prettier&logoColor=black)
-![Static Badge](https://img.shields.io/badge/PyCharm-%23FFFC00?style=for-the-badge&logo=PyCharm&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code%20-%235395FD?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 <h3>Additional Information</h3>
 
