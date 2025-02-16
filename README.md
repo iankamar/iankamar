@@ -36,7 +36,6 @@
 ![Static Badge](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Google%20Cloud-%234285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-%231769AA?style=for-the-badge&logo=Microsoft%20Azure&logoColor=White)
-![Static Badge](https://img.shields.io/badge/Atlassian-%230052CC?style=for-the-badge&logo=Atlassian&logoColor=White)
 ![Static Badge](https://img.shields.io/badge/Jira%20-%230052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Prisma-%232D3748?style=for-the-badge&logo=Prisma&logoColor=white)
