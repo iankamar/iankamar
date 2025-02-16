@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian Kamar</h1>
 <h3 align="left">
-  Full-stack Software Engineer | Expertise in Finance
+  Software Engineer | Expertise in Finance
 </h3>
 <h4 align="left">
   Specializing in full-stack development, with expertise in languages, tools, and technologies such as JavaScript (ES6), TypeScript, React, Node.js, and databases like MongoDB and PostgreSQL. I integrate technical skills with financial expertise to build efficient, user-focused applications.
