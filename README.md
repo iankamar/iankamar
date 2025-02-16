@@ -32,8 +32,6 @@
 ![Static Badge](https://img.shields.io/badge/Next.js-%230A1837?style=for-the-badge&logo=next.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=Jest&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=Redux&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PyCharm-%23FFFC00?style=for-the-badge&logo=PyCharm&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code%20-%235395FD?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Vercel-%230A1837?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Google%20Cloud-%234285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
