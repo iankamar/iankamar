@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Kamar</h1>
 
-<h3>
-  Technologies
-</h3>
-
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Material%20UI-%23007FFF?style=for-the-badge&logo=MUI&logoColor=white)
@@ -49,10 +45,5 @@
 ![Static Badge](https://img.shields.io/badge/Keystone-%23166BFF?style=for-the-badge&logo=Keystone&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Prettier-%23F7B93E?style=for-the-badge&logo=Prettier&logoColor=black)
 
-<h3>Additional Information</h3>
-
-- 🌱 **Improving my problem solving skills in DSA**
-  
-</h4>
 
 
