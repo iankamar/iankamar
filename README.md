@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Kamar</h1>
 
-<h3>Technology</h3>
-
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Material%20UI-%23007FFF?style=for-the-badge&logo=MUI&logoColor=white)
