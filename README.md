@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Material%20UI-%23007FFF?style=for-the-badge&logo=MUI&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Headless%20UI-%2366E3FF?style=for-the-badge&logo=Headless%20UI&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Headless%20UI-%23225593?style=for-the-badge&logo=Headless%20UI&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-%2318A497?style=for-the-badge&logo=Python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)
